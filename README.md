@@ -1,5 +1,5 @@
 # About Me:
-- Hi, I’m @joshivedant7<br>- I’m interested in Programming<br>- I’m currently learning Computer Eng.<br>- I’m looking to collaborate on GitHub<br>- Reach me by IG: @vemacitrind<br><br>- Fun fact: If I could, I would doom earth live.
+- Hi, I’m @joshivedant7<br>- I’m interested in Programming<br>- I’m currently learning Computer Eng.<br>- I’m looking to collaborate on GitHub<br>- Fun fact: If I could, I would doom earth live.
 
 
 ## Socials:
