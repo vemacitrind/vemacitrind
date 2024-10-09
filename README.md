@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - Hi, I’m @joshivedant7<br>- I’m interested in Programming<br>- I’m currently learning Computer Eng.<br>- I’m looking to collaborate on GitHub<br>- Reach me by IG: @vemacitrind<br>- Com. knowledge : JAVA , C(Basic) , Python<br>- Fun fact: ...
 
 
