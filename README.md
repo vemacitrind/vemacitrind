@@ -1,3 +1,4 @@
+![vemacitrind](https://github.com/user-attachments/assets/dc38b1a7-3ec4-4591-bfb5-5cf63c93ad0a)
 # About Me:
 - Hi, I’m @joshivedant7<br>- I’m interested in Programming<br>- I’m currently learning Computer Eng.<br>- I’m looking to collaborate on GitHub<br>- Fun fact: If I could, I would doom earth live.
 
@@ -15,9 +16,3 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/AKASH722/AKASH722/output/snake.svg" alt="Snake animation" />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-joshivedant7/joshivedant7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
