@@ -1,6 +1,6 @@
 ![vemacitrind](https://github.com/user-attachments/assets/dc38b1a7-3ec4-4591-bfb5-5cf63c93ad0a)
 # About Me:
-- Hi, I’m @joshivedant7<br>- I’m interested in Programming<br>- I’m currently learning Computer Eng.<br>- I’m looking to collaborate on GitHub<br>- Fun fact: If I could, I would doom earth live.
+- Hi, I’m joshi vedant<br>- I’m interested in Programming<br>- I’m currently learning Computer Eng.<br>- I’m looking to collaborate on GitHub<br>- Fun fact: If I could, I would doom earth live.
 
 
 ## Socials:
