@@ -5,7 +5,8 @@
 - I’m currently learning Computer Eng.<br>
 - I’m looking to collaborate on GitHub<br>
 - Fun fact: If I could, I would doom earth live.
-
+- btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="25em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+  
 ## Socials:
 [![Gun Icon](https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Gun-weapon-flat-icons-inmotus-design-3.png)](https://guns.lol/vemacitrind)
 
