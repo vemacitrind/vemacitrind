@@ -8,7 +8,9 @@
 - btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="25em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
   
 ## Socials:
-[![Gun Icon](https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Gun-weapon-flat-icons-inmotus-design-3.png)](https://guns.lol/vemacitrind)
+<a href="https://guns.lol/vemacitrind">
+  <img src="https://github.com/user-attachments/assets/4b720070-faa9-4213-ac50-8aaddeb3db44" alt="Link-tree" width="70" height="70">
+</a>
 
 # Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
