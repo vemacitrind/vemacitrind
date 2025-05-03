@@ -9,7 +9,7 @@
   
 ## Socials:
 <a href="https://guns.lol/vemacitrind">
-  <img src="https://github.com/user-attachments/assets/4b720070-faa9-4213-ac50-8aaddeb3db44" alt="Link-tree" width="70" height="70">
+  <img src="https://github.com/user-attachments/assets/4b720070-faa9-4213-ac50-8aaddeb3db44" alt="Link-tree" width="50" height="50">
 </a>
 
 # Tech Stack:
