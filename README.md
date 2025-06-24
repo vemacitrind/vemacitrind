@@ -1,5 +1,7 @@
-![vemacitrind](https://github.com/user-attachments/assets/dc38b1a7-3ec4-4591-bfb5-5cf63c93ad0a)
+![vemacitrind](https://github.com/user-attachments/assets/50a80588-06ba-45bf-b10e-41cf48ce9163)
+
 # About Me:
+
 - Hi, I’m joshi vedant<br>
 - I’m interested in Programming<br>
 - I’m currently learning Computer Eng.<br>
