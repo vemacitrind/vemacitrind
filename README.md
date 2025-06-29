@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I am Joshi Vedant, a passionate Computer Engineering student with a keen interest in exploring the world of software development, programming, and technology. My journey in computer engineering has allowed me to build a strong foundation in:
 
-🌐 Web Development
+🌐 Development
 
 💻 Programming Languages (e.g., Python, Java, C++)
 
@@ -22,7 +22,7 @@ Learning and growing in the ever-evolving tech landscape
 
 🔍 What I'm currently working on:
 
-https://github.com/vemacitrind/roadmap.git
+https://github.com/vemacitrind/roadmap
 
 💡 What I love:
 
