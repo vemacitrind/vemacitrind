@@ -10,7 +10,7 @@ I am Joshi Vedant, a passionate Computer Engineering student with a keen interes
 
 🛠️ Tools & Frameworks (e.g., React, Node.js)
 
-🛠️ Database (e.g., PostgreySQL, MySQL, MariaDB)
+🛠️ Database (e.g., PostgreySQL, MySQL, MariaDB,Mongo)
 
 I am enthusiastic about:
 
